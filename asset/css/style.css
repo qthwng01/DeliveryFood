@@ -926,6 +926,8 @@ li {
         margin: 5px 13px;
     }
     .support, .get__in-touch {
+        float: left;
+        text-align: left;
         margin: 5px 23px;
     }
     .about__list, .support__list, .company__list, .get__in-touch__list {
