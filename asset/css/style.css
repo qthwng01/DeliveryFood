@@ -941,6 +941,9 @@ li {
     .img__download {
         display: none;
     }
+    .slides-container {
+        overflow: auto;
+    }
 }
 
 
