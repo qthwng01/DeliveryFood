@@ -920,10 +920,13 @@ li {
     .icon__social-item i {
         font-size: 30px;
     }
-    .about, .company, .support, .get__in-touch {
+    .about, .company {
         float: left;
         text-align: left;
-        margin: 5px 20px;
+        margin: 5px 13px;
+    }
+    .support, .get__in-touch {
+        margin: 5px 23px;
     }
     .about__list, .support__list, .company__list, .get__in-touch__list {
         flex-direction: column;
